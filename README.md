@@ -25,3 +25,8 @@ Which should output
 - Polish Dockerfile
 - Allow running code from host
 - Publish image
+
+### About KRoC
+
+- https://www.cs.kent.ac.uk/projects/ofa/kroc/
+- http://projects.cs.kent.ac.uk/projects/kroc/trac/
