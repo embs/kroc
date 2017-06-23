@@ -24,3 +24,4 @@ Which should output
 
 - Polish Dockerfile
 - Allow running code from host
+- Publish image
